@@ -8,13 +8,6 @@ import (
 
 func main() {
 	db, _ := gosearchengine.NewDBClient(
-		// &gosearchengine.DBConfig{
-		// 	"root",
-		// 	"password",
-		// 	"127.0.0.1",
-		// 	"13306",
-		// 	"gosearchengine",
-		// },
 		&gosearchengine.DBConfig{
 			User:     "root",
 			Password: "password",
