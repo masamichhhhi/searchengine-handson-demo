@@ -27,8 +27,6 @@ github.com/kotaroooo0/gojaconv v0.0.0-20210223133819-8a8c2bab5241 h1:oxE0apnxBB1
 github.com/kotaroooo0/gojaconv v0.0.0-20210223133819-8a8c2bab5241/go.mod h1:I8B3ewL9QXM+wxwBuYyTijr1wErtp9gLl/yb6P/BPNI=
 github.com/lib/pq v1.2.0 h1:LXpIM/LZ5xGFhOpXAQUIMM1HdyqzVYM13zNdjCEEcA0=
 github.com/lib/pq v1.2.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
-github.com/masamichhhhi/go-search-engine v0.0.0-20220307174400-4b02bf421325 h1:NQTf2NE/rM45MqURWCl+Z7vPC6aBKjztXj9o6tvSn18=
-github.com/masamichhhhi/go-search-engine v0.0.0-20220307174400-4b02bf421325/go.mod h1:ZcwZWnyKk25B0vTphMzsD0olTYHqHgN5CtVA6xl0v1k=
 github.com/masamichhhhi/go-search-engine v0.0.0-20220311183636-9c7f0c573c70 h1:W/WvHCvz6inDnNHwhzjybiP7mPdLXE2CPSEsm/rcum0=
 github.com/masamichhhhi/go-search-engine v0.0.0-20220311183636-9c7f0c573c70/go.mod h1:ZcwZWnyKk25B0vTphMzsD0olTYHqHgN5CtVA6xl0v1k=
 github.com/mattn/go-sqlite3 v1.14.6 h1:dNPt6NO46WmLVt2DLNpwczCmdV5boIZ6g/tlDrlRUbg=

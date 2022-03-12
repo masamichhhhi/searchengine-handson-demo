@@ -20,7 +20,7 @@ func main() {
 			Password: "password",
 			Addr:     "127.0.0.1",
 			Port:     "13306",
-			DB:       "gosearchengine",
+			DB:       "stalefish",
 		},
 	)
 	storage := gosearchengine.NewStorageRdbImpl(db)
